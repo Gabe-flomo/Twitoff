@@ -1,0 +1,4 @@
+set FLASK_APP=TWITOFF:APP
+flask shell
+
+from TWITOFF.models import *
